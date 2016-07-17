@@ -34,7 +34,7 @@ D:.
 ©¦  ©¦      
 ©¦  ©¸©¤inc
 ©¦      ©¦  os_dma_mapping.h
-©¦      ©¦  os_gpio.h
+©¦      ©¦  os_gpio.h	//gpio definition(porting)
 ©¦      ©¦  os_i2c.h
 ©¦      ©¦  os_if.h
 ©¦      ©¦  os_irqflags.h
